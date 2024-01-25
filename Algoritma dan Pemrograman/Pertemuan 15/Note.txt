@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Konsep analisis rekuren
+Fungsi rekursif didalam algoritma pemrograman
+Analisis ekspresi rekursif
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan konsep analisis rekuren, membuat fungsi rekursif, dan menganalisis ekspresi rekursif.
+
+https://www.youtube.com/watch?v=YAfkJoGNiA8

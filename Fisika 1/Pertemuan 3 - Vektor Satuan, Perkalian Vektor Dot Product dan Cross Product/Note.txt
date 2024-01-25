@@ -1,0 +1,9 @@
+Pokok Bahasan 
+1. Perkalian silang (cross product) dua buah vektor
+2. Perkalian titik (dot product) dua buah vektor
+
+Capaian Pembelajaran
+1. Mahasiswa mampu menyelesaikan perkalian silang dua buah vektor
+2. mahasiswa mampu menyelesaikan perkalian titik dua buah vektor
+
+https://www.youtube.com/watch?v=2iMV2D2Ow84

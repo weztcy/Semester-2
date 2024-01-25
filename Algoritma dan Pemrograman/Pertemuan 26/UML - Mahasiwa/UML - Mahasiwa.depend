@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655293138 source:c:\users\lenovo\documents\uml - mahasiwa\main.cpp
+	<iostream>
+	"header.h"
+
+1655706355 c:\users\lenovo\documents\uml - mahasiwa\header.h
+	<iostream>
+

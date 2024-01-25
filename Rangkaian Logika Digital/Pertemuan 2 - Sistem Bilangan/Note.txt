@@ -1,0 +1,11 @@
+Pokok Bahasan 
+1. Memahami konsep sistem bilangan.
+2. Mengkonversi antar sistem bilangan.
+3. Memahami dan mengimplementasikan operasi aritmatik dan sistem bilangan komplemen 2
+
+Capaian Pembelajaran
+1. Memahami konsep sistem bilangan.
+2. Mengkonversi antar sistem bilangan.
+3. Memahami dan mengimplementasikan operasi aritmatik dan sistem bilangan komplemen 2
+
+https://www.youtube.com/watch?v=C7AkrIZ94lU&t=76s

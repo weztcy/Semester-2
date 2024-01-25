@@ -1,0 +1,10 @@
+Pokok Bahasan: Logika Relasional 
+1. Prinsip Resolusi 
+2. Bentuk Umum Prinsip Resolusi 
+3. Inferensi dalam bentuk Klausul
+
+Capaian Pembelajaran
+1. Menguasai kompetensi dasar tentang proposisional Resolusi.
+2. Ketepatan membentuk sebuah proposisi ke dalam bentuk klausul.
+
+https://drive.google.com/file/d/1z4wr9wLmi-8xim0MsVeMTQFlNsvzg4Ja/view?usp=sharing

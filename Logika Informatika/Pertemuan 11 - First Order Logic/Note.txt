@@ -1,0 +1,13 @@
+Pokok Bahasan First Order Logic 
+1. Aturan Inferensi pada Propositional Logic 
+2. Modus Ponen 
+3. And Elimination 
+4. And Introduction 
+5. Or Introduction 
+6. Double Negation Elimination
+
+Capaian Pembelajaran
+1. Ketepatan dalam menggunakan aturan inferensi pada proposional logic.
+2. Ketepatan menterjemah dalam bahasa FOL.
+
+https://drive.google.com/file/d/1Y2OrL0sTBSoPI7oiQ003cinn7fsTMtHX/view?usp=sharing

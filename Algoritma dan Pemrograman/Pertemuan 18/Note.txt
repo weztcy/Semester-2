@@ -1,0 +1,7 @@
+Pokok Bahasan 
+Pembuatan kode program untuk penyelesaian kasus pencarian dan pengurutan dengan fungsi rekursif.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menerapkan analisis rekuren pada algoritma pencarian dan pengurutan serta mampu membandingkan solusi iteratif dengan solusi rekursif.
+
+https://drive.google.com/file/u/1/d/1a9QvSwKVml8ZqbblnSV66pQsC1kptZsj/view?usp=sharing

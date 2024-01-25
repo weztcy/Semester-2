@@ -1,0 +1,12 @@
+Pokok Bahasan: Logika Entaiment 
+1. Deduksi 
+2. Logika Entaiment
+   - Penjelasan
+   - Metode Tabel Kebenaran  
+
+Capaian Pembelajaran
+1. Menguasai kompetensi dasar pembahasan mengenai deduksi. 
+2. Ketepatan dalam melakukan penarikan kesimpulan dari beberapa pernyataan. 
+3. Ketepatan memilih suatu pernyataan merupakan logika entailment atau bukan.
+
+https://drive.google.com/file/d/1NMn2gHQU0NHytPIn2RKW7YNF0sLDDbYh/view?usp=sharing

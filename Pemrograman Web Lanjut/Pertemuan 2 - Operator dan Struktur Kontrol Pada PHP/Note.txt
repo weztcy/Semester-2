@@ -1,0 +1,21 @@
+Operator dan Struktur Kontrol pada PHP
+
+Pokok Bahasan 
+1. operator
+   •Arithmetic operators
+   •Assignment operators
+   •comparation operators
+   •Increment/Decrement operators
+   •Logical operators
+   •String operators
+   •Array operators
+   •Conditional assignment operators
+
+2. Struktur Kontrol pada PHP
+   if, if_else dan if_else_if
+
+Capaian Pembelajaran
+1. mahasiswa dapat membuat  program dgn operator pada php
+2. mahasiswa dapat membuat  program dgn struktur kontrol pada php
+
+https://drive.google.com/file/d/1gxDjlWdixDMJ07xEem8SaGdaPNC6-rtL/view

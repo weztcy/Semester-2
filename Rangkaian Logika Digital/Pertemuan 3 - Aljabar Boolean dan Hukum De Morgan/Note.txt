@@ -1,0 +1,9 @@
+Pokok Bahasan 
+1. Menjelaskan tentang aljabar Boolean.
+2. Menjelaskan tentang hukum De Morgan.
+
+Capaian Pembelajaran
+1. Memahami konsep dan mampu menyelesaikan persoalan aljabar Boolean.
+2. Memahami konsep dan mampu menyelesaikan hukum De Morgan.
+
+https://www.youtube.com/watch?v=HWI_nW-76lg

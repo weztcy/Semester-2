@@ -1,0 +1,17 @@
+Pokok Bahasan 
+
+Rule of Inference
+1. Modus Ponen 
+2. Modus Tolen 
+3. Equivalence Elimination 
+4. Double Negation 
+5. Silogisme Disjungtif 
+6. Silogisme Hipotesis
+
+Standar Axiom Schemata: 
+1. Rumus Dasar
+
+Capaian Pembelajaran
+1. Ketepatan menggunakan rule of inference dalam penarikan kesimpulan. 
+2. Ketepatan menggunakan standar axiom schemata dalam melakukan pembuktian. 
+3. Ketepatan menggunakan prinsip resolusi.

@@ -1,0 +1,11 @@
+Pokok Bahasan 
+1. Dasar PHP
+2. Sintaks,output,comment,variabel,konstanta,tipedata
+
+Capaian Pembelajaran
+1. Mahasiswa dapat mengetahui dasar PHP
+2. Mahasiwa dapat membuat program dengan
+
+Perintah sintaks, output, comment, variabel, konstanta, tipe data.
+
+https://drive.google.com/file/d/1maGru402ClYiRWm5h-gruMNIhli8qFIw/view

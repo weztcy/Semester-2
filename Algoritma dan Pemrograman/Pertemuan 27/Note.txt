@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Konsep dan properti Algoritma
+Analisis efektifikas algoritma kasus terbaik, rata-rata, dan terburuk.
+Notasi Big-O dan tingkatan kompleksitas algoritma.
+Membandingkan efisiensi dari segi kompleksitas dengan notasi Big-O pada algortima-algoritma pengurutan dan pencarian.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu mengidentifikasi, menganalisis dan membandingkan beberapa algoritma dalam hal efisiensi.
+Bahan Ajar.

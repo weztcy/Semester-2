@@ -1,0 +1,12 @@
+Pokok Bahasan 
+1. Gerbang Logika; Penjelasan tentang konsep gerbang logika, baik gerbang Logika dasar maupun gerbang logika turunan.
+
+Capaian Pembelajaran
+1. Memahami konsep dan mampu menyelesaikan persoalan gerbang logika dasar: AND, OR dan NOT.
+2. Memahami konsep dan mampu menyelesaikan persoalan logika turunan: NAND, NOR, XOR dan XNOR.
+
+Part 1
+https://www.youtube.com/watch?v=krAvJ6TidZM
+
+Part 2
+https://www.youtube.com/watch?v=8hfaLq9B7T0

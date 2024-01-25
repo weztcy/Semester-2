@@ -1,0 +1,11 @@
+Pokok Bahasan:
+1. Definisi
+2  Komponen Logika Relasional
+3. Kalimat Relasional
+4. Kuantor
+
+Capaian Pembelajaran
+1. Ketepatan dalam membuktikan sebuah pernyataan dalam bentuk klausul.
+2. Memahami dan mengetahui komponen komponen logika relasional.
+
+https://drive.google.com/file/d/1gBPIwEblRjkSPT7iNUs48pYziKHr47SN/view

@@ -1,0 +1,8 @@
+Pokok Bahasan: Tautologi dan Kontradiksi
+1. Konvers
+2. Invers
+3. Kontraposisi
+
+Capaian Pembelajaran
+1. Menguasai konvers, invers dan kontraposisi beserta Tabel Kebenaranya.
+2. Ketepatan menentukan sebuah pernyataan majemuk merupakan Tautologi atau Kontradiksi serta dapat membuat Tabel Kebenaranya.

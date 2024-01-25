@@ -1,0 +1,20 @@
+Pokok Bahasan 
+1. Rangkaian Kombinasional; Implementasi konsep rancangan rangkaian kombinasional menggunakan berbagai jenis rangkaian kombinasional.
+
+Capaian Pembelajaran
+1. Memahami konsep rangkaian kombinasional
+2. Memahami berbagai rangkaian kombinasional dan menyelesaikan persoalan dari berbagai jenis rangkaian tersebut.
+
+Rangkaian Kombinasional
+https://www.youtube.com/watch?v=41LIEc-GEuk
+
+Jawaban Quiz
+
+Part 1
+https://www.youtube.com/watch?v=smeUN1Bxj3M
+
+Part 2
+https://www.youtube.com/watch?v=_qGFpgpqf7s
+
+Part 3
+https://www.youtube.com/watch?v=vZKRs_1jPeI

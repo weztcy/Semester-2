@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Pointer dan Alokasi Memory
+Array vs Pointer
+Manipulasi String
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan  menerapkan  pointer untuk alokasi dinamis, manajemen memory pada program, keterkaitan array dengan pointer, dan string.
+
+https://www.youtube.com/watch?v=JxdekScNJ8U

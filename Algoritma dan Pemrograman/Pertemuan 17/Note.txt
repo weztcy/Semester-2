@@ -1,0 +1,11 @@
+Pokok Bahasan 
+Pendalaman konsep analisis rekuren
+Konsep devide and conquer
+Fungsi rekursif pada linear search
+Fungsi rekursif pada merge sort
+Perbandingan solusi iteratif dengan rekursif.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menerapkan analisis rekuren pada algoritma pencarian dan pengurutan serta mampu membandingkan solusi iteratif dengan solusi rekursif.
+
+https://www.youtube.com/watch?v=5gPMDIZytko

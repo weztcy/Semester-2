@@ -1,0 +1,10 @@
+Pokok Bahasan 
+1.Form
+2.link,cookies,Sesssion
+
+Capaian Pembelajaran
+Mahasiswa mampu:
+a. Menjelaskan cara mengelola data yang didapat dari user
+b. Menggunakan form-submit,queryString pada link,session,cookie untuk mengirim data antar halaman web
+
+https://drive.google.com/file/d/1ZOtLtEYisIMaZf24pOIMT6e2_14E59vb/view

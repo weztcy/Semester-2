@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1656488490 source:d:\statistik kesejahteraan penduduk\main.cpp
+	<iostream>
+	"header.h"
+
+1656487680 d:\statistik kesejahteraan penduduk\header.h
+	<iostream>
+
+1656488490 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\uas\statistik kesejahteraan penduduk\main.cpp
+	<iostream>
+	"header.h"
+
+1656487680 c:\users\user\downloads\semester 2\algoritma dan pemrograman\uas\statistik kesejahteraan penduduk\header.h
+	<iostream>
+

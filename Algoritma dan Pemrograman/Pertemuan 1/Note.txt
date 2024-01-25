@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Kontrak kuliah
+Konsep dasar algoritma dan perannya dalam pemecahan masalah.
+Pemecahan masalah algoritmik sederhana.
+Menulis Notasi algoritma.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa dapat menjelaskan, berdiskusi, dan menerapkan konsep algoritma secara umum dengan diikuti oleh teknik pemrograman dasar yang dibutuhkan untuk pemecahan masalah algoritmik sederhana
+
+https://drive.google.com/file/d/1wAH3g1dOM8RJhZ6Q_rKTj0vLTO0ultqz/view

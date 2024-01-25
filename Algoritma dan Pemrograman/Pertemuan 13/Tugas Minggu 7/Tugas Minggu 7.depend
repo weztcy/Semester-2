@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649776303 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\tugas\pertemuan 13\tugas minggu 7\main.cpp
+	<iostream>
+	"header.h"
+
+1649776317 c:\users\user\downloads\semester 2\algoritma dan pemrograman\tugas\pertemuan 13\tugas minggu 7\header.h
+	<iostream>
+	<conio.h>
+

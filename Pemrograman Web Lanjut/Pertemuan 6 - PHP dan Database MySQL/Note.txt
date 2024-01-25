@@ -1,0 +1,10 @@
+PHP & Database MySQL
+
+Pokok Bahasan 
+1.perintah ddl
+2.perintah dml
+
+Capaian Pembelajaran
+Mahasiswa mampu:
+Menjelaskan konsep RDBMS dan mengelola database menggunakan tool .
+Membuat halaman web yang dapat mengakses database MySQL.

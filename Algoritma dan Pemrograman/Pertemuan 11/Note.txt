@@ -1,0 +1,8 @@
+Pokok Bahasan 
+Algoritma pengurutan insertion sort secara iteratif.
+Analisis kelebihan dan kekurangan algoritma insertion sort.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pengurutan (sorting) dengan algoritma insertion sort
+
+https://www.youtube.com/watch?v=tqvfgP2BfMw

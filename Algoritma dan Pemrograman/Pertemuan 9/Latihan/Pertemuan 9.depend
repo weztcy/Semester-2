@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1648600918 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\latihan\pertemuan 9\main.cpp
+	<iostream>
+	"header.h"
+
+1648600941 c:\users\user\downloads\semester 2\algoritma dan pemrograman\latihan\pertemuan 9\header.h
+	<iostream>
+

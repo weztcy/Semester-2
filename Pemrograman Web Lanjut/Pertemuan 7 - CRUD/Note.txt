@@ -1,0 +1,10 @@
+Studi kasus CRUD- Database
+
+Pokok Bahasan 
+Proses CRUD
+•Menambahkan data dari Form ke dalam Tabel di database
+•Menampilkan data  dari tabel (database) ke halaman web
+•Melakukan proses Update data ( Update,Delete)
+
+Capaian Pembelajaran
+Mahasiswa mampu halaman-halaman web yang memiliki fungsi CRUD

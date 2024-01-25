@@ -1,0 +1,15 @@
+Metode-Metode Inferensi:
+1. Modus Ponens
+2. Modus Tollens
+3. Silogisme Disjungtif
+4. Silogisme Hipotesis
+
+Kalimat Berkuantor:
+1. Kuantor Umum
+2. Kuantor Khusus
+3. Negasi berkuantor
+
+Capaian Pembelajaran
+1. Ketepatan dalam inferensi logika serta dapat menarik kesimpulan.
+2. Penguasaan tentang kalimat berkuantor.
+3. Dapat menentukan suatu fungsi yang mengandung lebih dari satu variabel.

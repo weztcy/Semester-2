@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Penjumlahan deret angka dan menghitung rata-rata.
+Penjumlahan elemen-elemen nested list (seakan matriks).
+Metode pertukaran variabel.
+Konsep Algoritma euclidean.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu mengenal permasalahan komputasional sederhana dengan algoritma sederhana yang umum digunakan
+
+https://drive.google.com/file/d/1URKm4KwLbX0W8getEAOBGqALWzVQi59Y/view

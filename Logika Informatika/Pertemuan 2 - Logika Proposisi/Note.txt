@@ -1,0 +1,14 @@
+Pokok Bahasan (Logika Proposisi)
+1. Konsep Proposisi
+2. Proposisi Majemuk
+   - Negasi
+   - Konjungsi
+   - Disjungsi
+   - Implikasi
+   - Tabel Kebenaran
+
+Capaian Pembelajaran
+1. Ketepatan dalam memberikan contoh proposisi majemuk beserta jenis-jenisnya.
+2. Ketepatan dalam membuat tabel kebenaran untuk masing-masing jenis proposisi majemuk.
+
+https://drive.google.com/file/d/1b810aKozgSvvNV8cDQGvB7tBOty0mOVG/view

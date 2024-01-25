@@ -1,0 +1,14 @@
+Pokok Bahasan 
+Pembuatan kode program dengan bentuk fungsi dengan pengembalian.
+Pemanggilan fungsi kedalam main program.
+Fungsi-fungsi yang dibuat masih dalam satu file dengan main program.
+Pembuatan kode program dengan bentuk fungsi tanpa pengembalian atau fungsi sebagai prosedur.
+Pemanggilan prosedur kedalam main program.
+Fungsi-fungsi (termasuk prosedur) yang dibuat sudah dalam file yang berbeda dengan main program.
+Parameter fungsi
+Variabel global vs lokal
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa dapat menjelaskan konsep dekomposisi dan abstraksi serta menerapkannya pada pemrograman dengan membuat suatu fungsi  atau prosedur
+
+https://drive.google.com/file/d/1v9_niehNaBoIikvbTlqypHqmuejM0VHk/view

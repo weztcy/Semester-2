@@ -1,0 +1,6 @@
+Pokok Bahasan 
+1. Argumen berkuantor.
+2. Uji Validitas.
+
+Capaian Pembelajaran:
+Ketepatan menggunakan logika relasional untuk membuktikan argumen berkuantor.

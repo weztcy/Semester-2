@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Pembuatan kode program dengan menerapkan fungsi penjumlahan dan pengolahaan statistik sederhana.
+Pembuatan fungsi sederhana untuk menjumlahkan nested list (matriks)
+Pembuatan beberapa fungsi atau prosedur pertukaran.
+Pembuatan kode untuk menyelesaikan permasalahan FPB dengan algoritma euclidean.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu mengenal permasalahan komputasional sederhana dengan algoritma sederhana yang umum digunakan
+
+https://drive.google.com/file/d/1vKLCaeDD2UDwNWvYgJOx3Gd60F5x1FoU/view

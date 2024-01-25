@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1655694545 source:c:\users\user\downloads\nurul anisa bismillah\adt mahasiswa\main.cpp
+	<iostream>
+	"header.h"
+
+1655691229 c:\users\user\downloads\nurul anisa bismillah\adt mahasiswa\header.h
+	<iostream>
+
+1655782155 source:c:\users\lenovo\downloads\adt mahasiswa\main.cpp
+	<iostream>
+	"header.h"
+
+1655772921 c:\users\lenovo\downloads\adt mahasiswa\header.h
+	<iostream>
+
+1655817812 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\pertemuan 27\adt mahasiswa 2\main.cpp
+	<iostream>
+	"header.h"
+
+1655772922 c:\users\user\downloads\semester 2\algoritma dan pemrograman\pertemuan 27\adt mahasiswa 2\header.h
+	<iostream>
+

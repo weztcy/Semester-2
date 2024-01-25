@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Pembuatan kode program untuk algoritma pencarian linier.
+Pembuatan kode program untuk algoritma pencarian linier dengan sentinel.
+Pembuatan kode program untuk algoritma pencarian linier pada list terurut.
+Pembuatan kode program untuk penyelesaian pencarian dengan algoritma pencarian biner.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pencarian linear dan pencarian biner
+
+https://drive.google.com/file/d/1hlE77ZNZ_44PqmS_pKZjE5OjBna3V7Ot/view

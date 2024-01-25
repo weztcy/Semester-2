@@ -1,0 +1,8 @@
+Pokok Bahasan 
+Pembuatan kode program dengan ADT sederhana pada suatu struct disertai dengan variabel dan fungsinya.
+Penerapan ADT yang sudah dibuat sebelumnya pada suatu penyelesaian masalah algoritmik.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu mengidentifikasi dan menerapkan komponen data dan perilaku dari satu Abstract data Type (ADT).
+
+https://www.youtube.com/watch?v=fyUQEK2Z3I0

@@ -1,0 +1,8 @@
+Pokok Bahasan
+1. Penyederhanaan Fungsi Boolean; Penjelasan tentang konsep dan implementasi aljabar Boolean menggunakan metode peta Karnaugh dan metode Quini-Mc. Cluskey
+
+Capaian Pembelajaran
+1. Memahami konsep tentang penyederhanaan fungsi Boolean.
+2. Memahami konsep dan mampu menyelesaikan persoalan penyederhanaan fungsi Boolean menggunakan metode peta Karnaugh (K-Map).
+
+https://www.youtube.com/watch?v=Z4Po3L2vxW0

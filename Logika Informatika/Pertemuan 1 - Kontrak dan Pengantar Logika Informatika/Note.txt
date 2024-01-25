@@ -1,0 +1,14 @@
+Pokok Bahasan (Pengantar Logika Informatika):
+1. Penjelasan secara umum tentang mata kuliah/kontrak belajar
+2. Penjelasan tentang silabus
+3. Penjelasan tentang cara penilaian
+4. Sekilas tentang konsep dan sejarah Logika
+5. Penjelasan tentang kalimat dan pernyataan (proposisi).
+6. Menjelaskan keterkaitan Logika Informatika dengan matakuliah lain.
+
+Capaian Pembelajaran
+1. Menguasai konsep logika
+2. Menguasai sejarah logika
+3. Memahami arti sebuah kalimat dan proposisi
+
+https://drive.google.com/file/d/1w7QJbzWPtRL5DbZ3_EDJm0GEOP61DL9q/view

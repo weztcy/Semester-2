@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649038345 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\tugas\pertemuan 10\modul pap 4 no 2\main.cpp
+	<iostream>
+	"pustaka.h"
+
+1649038409 c:\users\user\downloads\semester 2\algoritma dan pemrograman\tugas\pertemuan 10\modul pap 4 no 2\pustaka.h
+
+1649038381 source:c:\users\user\downloads\semester 2\algoritma dan pemrograman\tugas\pertemuan 10\modul pap 4 no 2\pustaka.cpp
+	"pustaka.h"
+	<iostream>
+

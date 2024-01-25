@@ -1,0 +1,13 @@
+Pokok Bahasan 
+1. Memahami konsep dan mampu menyelesaikan persoalan penyederhanaan fungsi Boolean menggunakan metode Quini-Mc. Cluskey.
+
+Capaian Pembelajaran
+1. Penyederhanaan Fungsi Boolean; Penjelasan tentang konsep dan implementasi aljabar Boolean menggunakan metode peta Karnaugh dan metode Quini-Mc. Cluskey.
+
+Metode Tabulasi (Metode Quine-McCluskey)
+https://www.youtube.com/watch?v=oV8LSqqQcFo
+
+Soal dan Pembahasan Metode Quine-McCluskey
+https://www.youtube.com/watch?v=JIDFXZb_0Uo
+
+https://drive.google.com/file/d/119a_sbbaqmTMrd-euK170ejDA2ZLUbzA/view

@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Pembuatan kode program dengan menfaatkan pointer.
+Pembuatan kode program dengan array dan pointer sebagai array.
+Pembuatan kode program yang memanfaatkan string.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan  menerapkan  pointer untuk alokasi dinamis, manajemen memory pada program, keterkaitan array dengan pointer, dan string.
+
+https://drive.google.com/file/u/1/d/1bJnR-seDuLg6ZsMB3BiRSEGUvOxdnLth/view?usp=sharing

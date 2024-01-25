@@ -1,0 +1,12 @@
+Studi kasus Penggunaan Variabel Session
+
+Pokok Bahasan 
+Proses Shopping-Cart menggunakan session-array
+•Menampilkan Daftar Produk
+•Memilih produk dan menambahkannya di array Session
+•Menghapus semua item pada array
+
+Capaian Pembelajaran
+Mahasiswa mampu membuat halaman keranjang belanja sederhana dengan menggunakan session
+
+https://drive.google.com/file/d/1RY2ZtJynLZN7fLLOTgZRDu2Umou2-SCZ/view

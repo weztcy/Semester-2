@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Konsep dasar algoritma pengurutan.
+Algoritma pengurutan bogo sort, bubble sort, dan selection sort secara iteratif.
+Analisis kelebihan dan kekurangan algoritma bogo sort, bubble sort, dan selection sort.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pengurutan (sorting) bogo sort, bubble sort, dan selection sort.
+
+https://drive.google.com/file/d/1_tc_38cFKN-_RSL2NrbIy5sT0few51IW/view

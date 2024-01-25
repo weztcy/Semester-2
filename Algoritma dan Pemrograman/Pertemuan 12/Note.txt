@@ -1,0 +1,7 @@
+Pokok Bahasan 
+Pembuatan kode program untuk penyelesaian pengurutan dengan insertion sort.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pengurutan (sorting) dengan algoritma insertion sort
+
+https://drive.google.com/file/d/1D01-Fvx79qsYxakVcxjPyMveHSd_Ku1E/view

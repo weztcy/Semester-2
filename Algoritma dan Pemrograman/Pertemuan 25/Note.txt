@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Pengertian ADT
+Akses memory ADT
+Pembentukan dan penggunaan ADT
+Variabel dan fungsi dalam ADT
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu mengidentifikasi dan menerapkan komponen data dan perilaku dari satu Abstract data Type (ADT).
+
+https://drive.google.com/file/d/1RxfoTFMLScusZFfeEuoMw8q2IQQaXljH/view

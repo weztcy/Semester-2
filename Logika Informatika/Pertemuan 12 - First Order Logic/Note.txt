@@ -1,0 +1,7 @@
+Pokok Bahasan First Order Logic: 
+1. Aturan Inferensi pada FOL 
+2. Tata Bahasa FOL 
+3. Inferensi pada FOL
+
+Capaian Pembelajaran
+1. Ketepatan menggunakan inference pada FOL untuk menarik sebuah kesimpulan.

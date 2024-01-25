@@ -1,0 +1,9 @@
+Pokok Bahasan 
+Pembuatan kode program untuk penyelesaian pengurutan dengan bogo sort.
+Pembuatan kode program untuk penyelesaian pengurutan dengan bubble sort.
+Pembuatan kode program untuk penyelesaian pengurutan dengan selection sort.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pengurutan (sorting) bogo sort, bubble sort, dan selection sort.
+
+https://drive.google.com/file/d/1gzprauflYT9Rv_D00sQadd_SQc8KHWub/view

@@ -1,0 +1,10 @@
+Pokok Bahasan 
+Teori dekomposisi dan abstraksi.
+Realisasi dekomposisi dan abstraksi pada notasi algoritma sederhana
+Realisasi dekomposisi dan abstraksi pada notasi fungsi tanpa pengembalian
+Parameter formal dan aktual
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa dapat menjelaskan konsep dekomposisi dan abstraksi serta menerapkannya pada pemrograman dengan membuat suatu fungsi  atau prosedur
+
+https://drive.google.com/file/u/1/d/1SHhjk5-sF4L8TVZsJoj9llBiT-q9LQs3/view?usp=sharing

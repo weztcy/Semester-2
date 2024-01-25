@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1655170616 source:d:\a11.2021.13254\4207 - 4208 adt barang\main.cpp
+	<iostream>
+	"header.h"
+
+1655170650 d:\a11.2021.13254\4207 - 4208 adt barang\header.h
+	<iostream>
+	<string>
+
+1655254870 source:c:\users\lenovo\documents\4207 - 4208 adt barang\main.cpp
+	<iostream>
+	"header.h"
+
+1655254912 c:\users\lenovo\documents\4207 - 4208 adt barang\header.h
+	<iostream>
+	<string>
+

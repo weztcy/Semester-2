@@ -1,0 +1,11 @@
+Pokok Bahasan 
+Konsep dasar algoritma pencarian.
+Konsep Pencarian linier
+Konsep pencarian linier dengan sentinel
+Konsep pencarian linier pada list terurut.
+Konsep algoritma pencarian biner.
+
+Capaian Pembelajaran
+Setelah mengikuti matakuliah ini mahasiswa mampu menjelaskan dan menerapkan algoritma pencarian linear dan pencarian biner.
+
+https://www.youtube.com/watch?v=tnE0rcSvwkI

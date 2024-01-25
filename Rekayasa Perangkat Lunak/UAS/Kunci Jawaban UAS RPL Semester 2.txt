@@ -1,0 +1,571 @@
+﻿Apa sasaran model analisis?
+A) Untuk memberikan deskripsi dari ranah informasional, fungsional, dan perilaku yang dibutuhkan untuk sistem-sistem berbasis komputer.
+B) Untuk membatasi serangkaian persyaratan yang dapat divalidasi begitu perangkat lunak dibangun.
+C) Untuk mendefinisikan sejumlah kebutuhan yang dapat divalidasi saat sistem/perangkat lunak dikembangkan.
+D) Untuk mendeskripsikan apa yang pelanggan inginkan dan menetapkan dasar bagi perancangan sistem/perangkat lunak.
+ANSWER: A
+Apa yang dimaksud dengan Object Oriented?
+A) Suatu perspektif melihat elemen – elemen yang diberikan oleh suatu situasi dengan cara memecah ke dalam objek – objek dan hubungan objek.
+B) Merupakan pendekatan yang populer dalam menganalisa, desain, mengembangkan aplikasi khususnya pada skala besar.
+C) Pendefinisian kelas-kelas dan cara bagaimana mereka saling bekerjasama satu dengan yang lainnya
+D) Sebuah sistem perangkat lunak sebagai kumpulan objek dengan berbagai jenis yang berinteraksi satu sama lain melalui antarmuka yang terdefinisi dengan baik
+ANSWER: A
+Berikut alasan pemilihan Object Oriented Analysis and Design, kecuali?
+A) Lebih tepat dalam menggambarkan entitas, dekomposisi berdasarkan pembagian yang natural, lebih mudah untuk dipahami dan dirawat.
+B) Kestabilan: Perubahan kecil dalam requirement tidak berarti perubahan yang signifikan dalam sistem yang sedang dikembangkan.
+C) Mudah disesuaikan dengan perkembangan.
+D) Memudahkan pemanfaatan ulang code dan arsitektur.
+ANSWER: C
+Berikut ini adalah hal yang benar mengenai analisis kebutuhan, kecuali?
+A) Focus on What not How
+B) Mengevaluasi permasalahan
+C) Focus on How not What
+D) Mengidentifikasi masalah
+ANSWER: C
+Berikut ini adalah hal yang benar mengenai definisi analisis terstruktur, kecuali?
+A) Mengasumsikan data dan proses yang mengubah data sebagai entitas yang terpisah
+B) Objek data dimodelkan dengan cara mendefinisikan atribut dan relasi yang dimiliki
+C) Proses-proses yang memanipulasi objek data dimodelkan dengan cara menggambarkan bagaimana proses-proses tersebut mengubah data sebagai aliran objek melalui sistem
+D) Analisis yang menggunakan UML untuk pemodelan
+ANSWER: D
+Berikut ini adalah tahap dalam analisis kebutuhan, kecuali?
+A) Identifikasi
+B) Permasalahan
+C) Pemodelan
+D) Pembuatan laporan
+ANSWER: B
+Berikut ini adalah unsur utama dari notasi DFD, kecuali?
+A) Data Flow
+B) Proses
+C) Data Store
+D) Data Diagram
+ANSWER: D
+Berikut yang tidak termasuk kapan Menggunakan Object Oriented, Kecuali?
+A) Perangkat lunak dipergunakan kembali di masa mendatang (reusable)
+B) Perangkat lunak yang dibangun akan tumbuh makin kompleks dimasa mendatang
+C) Perangkat lunak yang dibangun cukup kompleks
+D) Perangkat lunak yang dibangun dapat ditelusuri sesuai dengan kebutuhan pelanggan.
+ANSWER: D
+Berikut yang tidak termasuk Object Oriented Analysis, kecuali?
+A) Fokus pada pemahaman masalah
+B) Fokus pada pemahaman solusi
+C) Functional requirement
+D) Small model
+ANSWER: B
+Contoh diagram model behavior?
+A) Use case, use stories
+B) Diagram state, Diagram Urutan
+C) Diagram Kelas, Diagram kolaborasi
+D) Data Flow Diagram, Model Data
+ANSWER: B
+Dekomposisi Fungsional adalah proses untuk menemukan bagian yang paling mendasar dari suatu sistem, seperti mendefinisikan semua bagian sehingga dapat dibangun. Tools yang dapat digunakan untuk melakukan Dekomposisi Fungsional adalah?
+A) DFD
+B) ERD
+C) State Diagram
+D) Kamus Data
+ANSWER: A
+Diagram yang menggambarkan hubungan antar objek data adalah?
+A) DFD
+B) ERD
+C) State Diagram
+D) Kamus Data
+ANSWER: B
+Hal berikut ini adalah tujuan dari pemodelan dalam analisis, kecuali?
+A) Menggambarkan apa yang customer butuhkan
+B) Menetapkan suatu dasar untuk penciptaan suatu desain perangkat lunak
+C) Menggambarkan semua hal yang diinginkan oleh developer tanpa komunikasi dengan klien
+D) Merancang suatu kumpulan kebutuhan yang dapat divalidasi, sekali software dibangun
+ANSWER: C
+Inti dari analisis (core of analysis) adalah?
+A) Pembuatan laporan
+B) Identifikasi
+C) Pemahaman
+D) Pemodelan
+ANSWER: D
+Kegiatan yang bertujuan untuk memilih masalah mana yang akan dipecahkan dari kebutuhan yang didapat merupakan pengertian dari?
+A) Pembuatan laporan
+B) Identifikasi
+C) Pemahaman
+D) Pemodelan
+ANSWER: B
+Manakah di bawah ini yang benar tentang analisis dan desain?
+A) Analisis adalah untuk pemecahan masalah
+B) Desain untuk pemahaman masalah
+C) Analisis dan Desain untuk mendapatkan hasil implementasi
+D) Tidak ada yang tepat
+ANSWER: D
+Manakah di bawah ini yang bukan urutan untuk strategi pemecahan masalah secara umum?
+A) Memahami masalah
+B) Membangun solusi alternatif
+C) Ulangi jika tidak ada solusi yang memadai
+D) Tidak ada yang benar
+ANSWER: C
+Membentuk hasil pemahaman kebutuhan menjadi model-model (alat bantu) analisis kebutuhan perangkat lunak yang nantinya akan digunakan sebagai dasar perancangan perangkat lunak merupakan pengertian dari?
+A) Pembuatan laporan
+B) Identifikasi
+C) Pemahaman
+D) Pemodelan
+ANSWER: D
+Mempelajari prosedur manual yang akan digunakan sebagai dasar dalam pemodelan sistem merupakan pengertian dari?
+A) Pembuatan laporan
+B) Identifikasi
+C) Pemahaman
+D) Pemodelan
+ANSWER: C
+Memperlihatkan bagaimana event-event eksternal melakukan perubahan pada keadaan (state) sistem atau kelas-kelas yang ada di dalamnya, merupakan elemen model analisis?
+A) Elemen berbasis skenario
+B) Elemen berbasis kelas
+C) Elemen berbasis aliran
+D) Elemen-elemen perilaku
+ANSWER: D
+Metode yang memperlihatkan bagaimana objek – objek data melakukan transformasi saat mereka mengalir di dalam sistem yang dikembangkan, merupakan metode?
+A) Metode Tradisional
+B) Metode Klasik
+C) Metode Terstruktur
+D) Metode Berorientasi Objek
+ANSWER: C
+Penyusunan sebuah dokumen dengan format standar yang berisi hasil-hasil dari setiap langkah analisis kebutuhan merupakan pengertian dari?
+A) Pembuatan laporan
+B) Identifikasi
+C) Pemahaman
+D) Pemodelan
+ANSWER: A
+Sesuatu yang memuat deskripsi dari seluruh objek data yang digunakan atau dihasilkan oleh perangkat lunak adalah?
+A) DFD
+B) ERD
+C) State Diagram
+D) Kamus Data
+ANSWER: D
+Tahapan Analisis merupakan penghubung antara tahapan ___ dan ___?
+A) Perancangan dan Pengujian
+B) Perancangan dan Implementasi
+C) Rekayasa Kebutuhan dan Perancangan
+D) Pengujian dan Implementasi
+ANSWER: C
+Tahapan Analisis merupakan tahapan pemodelan?
+A) Solusi
+B) Masalah
+C) Gambar
+D) Grafik
+ANSWER: B
+Aktifitas kerangka kerja Analisa & Perancangan Interface mencakup antar lain, kecuali?
+A) Interface Design
+B) User, Task &amp; Environment Analysis
+C) Interface Validation
+D) System Implementation
+ANSWER: D
+Atribut tunggal dari perangkat lunak yang memungkinkan program menjadi mudah dikelola merupakan definisi konsep desain?
+A) Modularity
+B) Abstraksi
+C) Information hiding
+D) Arsitektur
+ANSWER: A
+Berbagai masalah kompleks dapat mudah ditangani jika dibagi menjadi bagian yang dapat dipecahkan atau dioptimasi secara independen adalah konsep design?
+A) Separation of concerns
+B) Information Hiding
+C) Functional independence
+D) Refinement
+ANSWER: A
+Berikut fokus Desain Antarmuka, kecuali?
+A) Desain antarmuka manusia-komputer
+B) Desain antarmuka Inter-modular
+C) Desain antarmuka user
+D) Desain antarmuka eksternal
+ANSWER: C
+Berikut ini adalah aturan emas dalam perancangan dari Theo Mandel, kecuali?
+A) Buat antarmuka yang baik dan benar
+B) Tempatkan pengguna sebagai pengendali
+C) Buat antarmuka yang konsisten
+D) Kurangi beban memori pengguna
+ANSWER: A
+Berikut ini adalah hasil dari desain data, kecuali?
+A) Struktur data
+B) Skema basis data
+C) Rancangan detil tiap tabel
+D) Rancangan UX
+ANSWER: D
+Berikut ini adalah karakteristik untuk mengevaluasi desain yang baik, kecuali?
+A) Desain harus mengimplementasikan seluruh kebutuhan baik yang eksplisit dan implisit
+B) Desain harus memenuhi keinginan dari developer saja
+C) Desain harus menyediakan gambaran lengkap suatu perangkat lunak
+D) Desain harus mudah dibaca dan dipahami
+ANSWER: B
+Berikut ini adalah macam gaya arsitektur perangkat lunak, kecuali?
+A) Arsitektur Data-Centered
+B) Arsitektur Data Flow
+C) Arsitektur tidak berlayer
+D) Arsitektur Call &amp; Return
+ANSWER: C
+Berikut ini adalah prinsip-prinsip perancangan, kecuali?
+A) Perancangan seharusnya direview untuk meminimalkan kesalahan konseptual.
+B) Perancangan seharusnya disusun untuk mengakomodasi data, kejadian, atau operasi yang menyimpang.
+C) Perancangan adalah coding, dan coding adalah perancangan.
+D) Perancangan seharusnya disusun untuk mengakomodasi perubahan.
+ANSWER: C
+Berikut ini adalah prinsip-prinsip perancangan, kecuali?
+A) Perancangan tidak harus dilacak dari model analisis
+B) Perancangan seharusnya menggunakan pola rancangan
+C) Perancangan seharusnya meminimalkan jarak intelektual antara software dan masalah di dunia nyata.
+D) Perancangan seharusnya memperlihatkan keseragaman dan integrasi.
+ANSWER: A
+Buat antarmuka yang bersifat konsisten merupakan salah satu Golden Rules dalam desain antarmuka, contoh permasalahannya yang benar adalah?
+A) Sejumlah aplikasi seharusnya semuanya mengimplementasikan aturan-aturan perancangan antarmuka yang sama sehingga konsistensi.
+B) Memelihara konsistensi jalur sejumlah aplikasi yang serupa.
+C) Mekanisme-mekanisme untuk melakukan penelusuran dari suatu pekerjaan ke pekerjaan yang lainnya
+D) Memungkinkan pengguna untuk mengetahui hal yang sedang dilakukan dalam konteks yang bermakna.
+ANSWER: D
+Desain yang menjelaskan bagaimana software berkomunikasi dengan sistem yang beroperasi dengan hal itu dan dengan manusia yang menggunakannya adalah?
+A) Architectural design
+B) Data/class design
+C) Interface design
+D) Component level design
+ANSWER: C
+Di bawah ini merupakan pentingnya Arsitektur perangkat lunak bagi pembangunan sistem atau aplikasi, kecuali?
+A) Menyediakan suatu representasi yang memfasilitasi komunikasi antar seluruh stakeholder.
+B) Sebagai dasar dari keputusan awal perancangan perangkat lunak dimana memiliki pengaruh kuat dalam seluruh tahap RPL.
+C) Menyediakan gambaran masalah sampai dengan solusi pemecahan masalahnya.
+D) Sebagai dasar model mengenai sistem yang terstruktur dan model komunikasi antar komponen yang saling bekerjasama.
+ANSWER: C
+Di bawah ini yang tidak termasuk pada aturan emas Theo Mendel?
+A) Menyediakan interaksi yang fleksibel pada aplikasi
+B) Dapat membuat perubahan perancangan antarmuka kapanpun dengan harapan pengguna akan setuju.
+C) Mengurangi short-term memori user dengan menyediakan icon visual
+D) Tampilan visual antarmuka pengguna harus sesuai dan familiar dengan dunia nyata.
+ANSWER: B
+Gambaran sistem yang ada di kepala para pengguna akhir, merupakan definisi dari?
+A) User Model
+B) Design Model
+C) Mental Model
+D) Implementation Model
+ANSWER: C
+Gaya arsitektur ini diterapkan ketika data masukan ditransformasikan melalui serangkaian komponen komputasi atau manipulatif menjadi data keluaran, disebut?
+A) Arsitektur Data-Centered
+B) Arsitektur Data Flow
+C) Arsitektur Call &amp; Return
+D) Arsitektur Object Oriented
+ANSWER: B
+Gaya arsitektur menggambarkan kategori sistem yang mencakup, kecuali?
+A) Sekumpulan komponen (DB, modul) yang melakukan fungsi yang diperlukan system.
+B) Sekumpulan penghubung yang memungkinkan komunikasi, koordinasi dan kerjasama antar komponen.
+C) Batasan yang mendefinisikan komponen dapat diintegrasikan untuk membangun system.
+D) Model notasi yang memungkinkan perancang untuk memahami seluruh properti system.
+ANSWER: D
+Hal berikut adalah yang dimodelkan dalam tahap perancangan, kecuali?
+A) Arsitektur
+B) Antarmuka
+C) Data
+D) Coding
+ANSWER: D
+Hal berikut ini adalah petunjuk melakukan perancangan yang berkualitas, kecuali?
+A) Sebuah perancangan menunjukkan arsitektur (1) telah dibuat berdasar gaya atau pola arsitektur, (2) disusun dengan komponen yang mempunyai karakteristik desain yang bagus
+B) Sebuah perancangan seharusnya berisi representasi yang berbeda dari data, arsitektur, antarmuka, dan komponen.
+C) Sebuah perancangan tidak seharusnya modular; P/L tidak harus dibagi menjadi elemen atau subsistem
+D) Sebuah perancangan seharusnya mengarah pada struktur data yang sesuai untuk kelas yang akan diimplementasikan.
+ANSWER: C
+Karakteristik untuk mengevaluasi desain yang baik antara lain, kecuali?
+A) Desain harus mengimplementasikan seluruh kebutuhan baik yang eksplisit dan implisit
+B) Desain harus mudah dibaca dan dipahami
+C) Desain harus menyediakan gambaran lengkap suatu perangkat lunak
+D) Desain harus terstruktur untuk mengakomodasi permasalah suatu perangkat lunak.
+ANSWER: D
+Komponen mentransformasikan elemen struktural dari arsitektur perangkat lunak ke sebuah deskripsi prosedur dari komponen software merupakan definisi perancangan?
+A) Arsitektur
+B) Antarmuka
+C) Data
+D) Prosedural
+ANSWER: D
+Manakah dari pernyataan berikut ini yang benar tentang proses resolusi dalam proses perancangan rekayasa perangkat lunak secara umum?
+A) Perancangan arsitektur adalah proses resolusi rendah
+B) Perancangan detail adalah proses resolusi tinggi
+C) Semua benar
+D) Tidak ada yang benar
+ANSWER: 
+Manakah dari pernyataan di bawah ini tentang proses perancangan perangkat lunak?
+A) Analisis terjadi pada awal perancangan dengan ide sebuah produk
+B) Analisis terjadi pada akhir perancangan rekayasa dengan SRS
+C) Resolusi perancangan produk menghasilkan dokumen perancangan
+D) Resolusi perancangan rekayasa menghasilkan SRS
+ANSWER: 
+Manakah di bawah ini yang tidak termasuk pada fokus perancangan antarmuka?
+A) Perancangan antarmuka inter-modular
+B) Perancangan antarmuka eksternal
+C) Perancangan antarmuka manusia-komputer
+D) Benar semua
+ANSWER: D
+Mendefinisikan hubungan antara elemen-elemen struktural utama dari perangkat lunak, gaya arsitektur dan pola desain yang membantu mencapai persyaratan yang ditetapkan untuk sistem merupakan definisi perancangan?
+A) Arsitektur
+B) Antarmuka
+C) Data
+D) Prosedural
+ANSWER: A
+Mengubah kelas analisis ke dalam kelas desain bersama dengan struktur data yang diperlukan untuk mengimplementasikan perangkat lunak merupakan definisi perancangan?
+A) Arsitektur
+B) Antarmuka
+C) Data
+D) Prosedural
+ANSWER: C
+Merancang agar informasi (data dan prosedur) yang terkandung dalam sebuah modul tidak dapat diakses oleh modul yang tidak membutuhkan informasi tersebut?
+A) Separation of concerns
+B) Information Hiding
+C) Functional independence
+D) Patterns
+ANSWER: B
+Pembuatan model data / informasi yang direpresentasikan pada abstraksi level tinggi (user's view of data) menjadi representasi yang lebih spesifik dengan implementasi merupakan pengertian?
+A) Desain Arsitektur
+B) Desain Data
+C) Desain Interface
+D) Desain UX
+ANSWER: B
+Penghubung penting antara desain dan persyaratan rekayasa dengan tujuan mengidentifikasi utama komponen struktural dalam suatu sistem dan hubungan diantara mereka merupakan definisi dari?
+A) Pengujian
+B) Analisis kebutuhan
+C) Desain arsitektur
+D) Perencanaan
+ANSWER: C
+Perancangan fokus pada solusi di level lingkungan masalah tanpa dihubungkan dengan detil di level rendah merupakan definisi konsep desain?
+A) Modularity
+B) Abstraksi
+C) Information hiding
+D) Arsitektur
+ANSWER: B
+Prinsip Design antara lain, kecuali?
+A) Perancangan seharusnya menggunakan pola rancangan
+B) Perancangan seharusnya memperlihatkan keseragaman dan integrasi.
+C) Perancangan seharusnya direview untuk meminimalkan kesalahan sistem
+D) Perancangan seharusnya disusun untuk mengakomodasi data, kejadian, atau operasi yang menyimpang.
+ANSWER: C
+Sasaran dari perancangan antarmuka pada dasarnya adalah?
+A) Untuk mendapatkan satu kriteria yang sangat penting dalam pengoperasian sebuah program aplikasi, yakni aspek ramah dengan pengguna (user friendly).
+B) Untuk mendefinisikan sejumlah objek antarmuka pengguna dan aksi-aksi/tindakan (serta representasinya pada layar) yang memungkinkan pengguna untuk melakukan semua pekerjaan yang telah didefinisikan.
+C) Untuk memenuhi salah satu kriteria interaksi antara manusia dan komputer yakni agar mendapat perhatian pengguna kepada program aplikasi yang dibuat.
+D) Untuk membuat interaksi pengguna sesederhana dan seefisien mungkin, dalam hal mencapai tujuan pengguna.
+ANSWER: B
+Struktur yang terdiri atas komponen perangkat lunak, properti komponen yang tampak dari luar dan hubungan antar komponen merupakan definisi dari?
+A) Arsitektur perangkat lunak
+B) Desain arsitektur perangkat lunak
+C) Gaya arsitektur perangkat lunak
+D) Model arsitektur perangkat lunak
+ANSWER: A
+Struktur yang terdiri atas komponen PL, properti komponen yang tampak dari luar dan hubungan antar komponen merupakan pengertian?
+A) Komponen perangkat lunak
+B) Perangkat lunak
+C) Arsitektur perangkat lunak
+D) Struktur perangkat lunak
+ANSWER: C
+Tahapan perancangan dalam Rekayasa Perangkat Lunak menghubungkan antara tahapan ___ dan __?
+A) Analisis dan Implementasi
+B) Analisis dan Pengujian
+C) Rekayasa Kebutuhan dan Analisis
+D) Pengujian dan Pemeliharaan
+ANSWER: A
+Tahapan perancangan dalam Rekayasa Perangkat Lunak merupakan tahapan pemodelan?
+A) Masalah
+B) Solusi
+C) Implementasi
+D) DFD
+ANSWER: B
+Tiga kunci penting Arsitektur, kecuali?
+A) Arsitektur perangkat lunak merupakan struktur sebuah sistem, yang meliputi elemen perangkat lunak, property yang tampak dari elemen itu, serta relasi di antara elemen-elemen tersebut.
+B) Arsitektur perangkat lunak menyediakan suatu representasi yang memfasilitasi komunikasi antar seluruh stakeholder.
+C) Arsitektur mendasari keputusan awal desain erangkat lunak yang mempunyai pengaruh kuat dalam seluruh tahap rekayasa erangkat lunak yang mengikutinya.
+D) Aritektur mendasari model mengenai sistem distrukturkan dan bagaimana komponen bekerja bersama.
+ANSWER: A
+Apakah Cyclomatic complexity?
+A) Black box testing
+B) White box testing
+C) Yellow box testing
+D) Green box testing
+ANSWER: B
+Apakah kita membangun produk dengan benar, pernyataan tersebut disebut?
+A) Operability
+B) Verifikasi
+C) Validasi
+D) Bug
+ANSWER: B
+Berikut ini adalah ciri software yang berkualitas, kecuali?
+A) Software yang bebas error dan bug secara objektif
+B) Dapat dirawat (maintainable)
+C) Tepat waktu dan dana
+D) Sesuai dengan kebutuhan atau keinginan pengembang saja
+ANSWER: D
+Berikut ini adalah kegunaan pengujian Whitebox, kecuali?
+A) Menguji Data Struktur internalnya
+B) Menguji keputusan logic (true false)
+C) Menguji setiap jalur independent
+D) Error pada saat inisialisasi atau terminasi
+ANSWER: D
+Berikut ini adalah tujuan pengujian Blackbox, kecuali?
+A) Fungsi yang salah atau tidak ada
+B) Menguji keputusan logic (true false)
+C) Error pada akses database external
+D) Error pada saat inisialisasi atau terminasi
+ANSWER: B
+Berikut yang tidak termasuk ciri Software yang Berkualitas adalah?
+A) Bebas error dan bug secara objektif
+B) Tepat waktu dan tepat dana
+C) Sesuai dengan kebutuhan atau keinginan dan dapat dirawat.
+D) Mudah untuk dikelola di masa mendatang
+ANSWER: D
+Berikut yang tidak termasuk pengujian white box adalah?
+A) Pengujian partisi ekivalensi
+B) Menguji keputusan logic (true atau falsa)
+C) Menguji Loops dan batasannya
+D) Menguji Data Struktur internalnya
+ANSWER: A
+Di bawah ini mana yang termasuk pengujian non-functional?
+A) Black box testing
+B) Performance testing
+C) Unit testing
+D) Tidak ada yang benar
+ANSWER: B
+Manakah dari kesalahan di bawah ini yang tidak boleh diuji ketika error handling di evaluasi?
+A) Deskripsi kesalahan tidak dapat dipahami
+B) Kesalahan yang dicatat tidak sesuai dengan kesalahan yang ditemui
+C) Kondisi kesalahan menyebabkan intervensi sistem sebelum penanganan kesalahan
+D) Deskripsi kesalahan memberikan informasi yang cukup untuk membantu lokasi penyebab kesalahan
+ANSWER: A
+Manakah dari pernyataan di bawah ini yang bukan merupakan karakteristik umum dari pengujian perangkat lunak?
+A) Teknik pengujian yang berbeda sesuai pada titik waktu yang berbeda
+B) Pengujian dilakukan oleh pengembang perangkat lunak atau kelompok pengujian independent.
+C) Pengujian dan debugging adalah aktivitas yang berbeda, tetapi debugging harus diakomodasi dalam strategi pengujian
+D) Tidak ada jawaban yang benar
+ANSWER: A
+Manakah di bawah ini yang termasuk teknik pengujian white box?
+A) Statement testing
+B) Decision testing
+C) Condition coverage
+D) Semua jawaban benar
+ANSWER: D
+Merupakan pengujian yang mengintegrasikan sekumpulan kelas yang dibutuhkan untuk merespon suatu masukan atau event ke dalam system adalah?
+A) Pengujian berbasis thread
+B) Pengujian berbasis kegunaan
+C) Pengujian berbasis path
+D) Pengujian berbasis graph
+ANSWER: A
+Metode Testing integration ada 2 jenis yaitu?
+A) Terstruktur dan tidak terstruktur
+B) Top Down dan Bottom Up
+C) Right dan Left Integration
+D) Validasi dan Verifikasi
+ANSWER: B
+Pengeksekusian kembali beberapa rangkaian pengujian yang telah dijalankan untuk memastikan bahwa perubahan tidak menimbulkan efek samping yang tidak diharapkan, adalah?
+A) Pengujian Regresi
+B) Pengujian Unit
+C) Pengujian Integrasi
+D) Pengujian Stress
+ANSWER: A
+Pengujian dengan menjalankan sistem dengan cara meminta sumber daya dalam jumlah, frekuensi atau volume yang abnormal adalah?
+A) Pengujian Pemulihan
+B) Pengujian Keamanan
+C) Pengujian Stres
+D) Pengujian Deployment
+ANSWER: C
+Pengujian dilakukan oleh pihak ketiga yang independen merupakan?
+A) Prinsip pengujian
+B) Sasaran Pengujian
+C) Testabilitas pengujian
+D) Karakteristik pengujian
+ANSWER: A
+Pengujian yang berfokus pada upaya verifikasi terhadap unit terkecil dari perancangan perangkat lunak komponen atau modul PL merupakan pengujian?
+A) Unit
+B) Integrasi
+C) Sistem
+D) User Acceptance
+ANSWER: A
+Pengujian yang bertujuan untuk mengambil komponen yang diuji dan membangun struktur program yang telah ditentukan oleh perancangan merupakan pengujian?
+A) Unit
+B) Integrasi
+C) Sistem
+D) User Acceptance
+ANSWER: B
+Pengujian yang digunakan untuk menguji internal working produk atau system digunakan metoda?
+A) Yellow box testing
+B) Black box testing
+C) White box testing
+D) Zero testing
+ANSWER: B
+Pengujian yang dilakukan di sisi pengembang oleh sekelompok perwakilan pengguna akhir adalah?
+A) Pengujian Alpha
+B) Pengujian Verifikasi
+C) Pengujian Validasi
+D) Pengujian Betha
+ANSWER: A
+Pengujian yang dilakukan pada satu atau lebih pengguna akhir dimana pengembang tidak hadir pada pengujian ini adalah?
+A) Pengujian Alpha
+B) Pengujian Verifikasi
+C) Pengujian Validasi
+D) Pengujian Betha
+ANSWER: D
+Pengujian yang dilakukan tanpa perencanaan dan dokumentasi disebut?
+A) Unit testing
+B) Regression testing
+C) Adhoc testing
+D) Tidak ada yang benar
+ANSWER: C
+Pengujian yang memastikan bahwa perangkat lunak berfungsi dengan cara yang diharapkan oleh pelanggan adalah?
+A) Pengujian Alpha
+B) Pengujian Verifikasi
+C) Pengujian Validasi
+D) Pengujian Betha
+ANSWER: C
+Pengujian yang memastikan bahwa perangkat lunak berfungsi dengan cara yang diharapkan oleh pelanggan merupakan pengujian?
+A) Validasi
+B) Integrasi
+C) Regresi
+D) User Acceptance
+ANSWER: A
+Pengujian yang menjalankan perangkat lunak di setiap lingkungan dimana perangkat lunak tersebut beroperasi adalah?
+A) Pengujian Pemulihan
+B) Pengujian Keamanan
+C) Pengujian Stres
+D) Pengujian Deployment
+ANSWER: D
+Pengujian yang merupakan pengeksekusian kembali beberapa rangkaian pengujian yang telah dijalankan untuk memastikan bahwa perubahan tidak menimbulkan efek samping yang tidak diharapkan merupakan pengujian?
+A) Unit
+B) Integrasi
+C) Regresi
+D) User Acceptance
+ANSWER: C
+Proses menganalisa suatu entitas software untuk mendeteksi perbedaan antara kondisi yang ada dengan kondisi yang diinginkan defect/errors/bugs) dan mengevaluasi fitur-fitur dari entitas software merupakan pengertian dari?
+A) Analisis
+B) Perancangan
+C) Pengujian
+D) Pemeliharaan
+ANSWER: C
+Teknik pengujian yang harus mengetahui struktur dan implementasi dari software adalah pengujian?
+A) Blackbox
+B) Whitebox
+C) Greybox
+D) Greenbox
+ANSWER: B
+Teknik pengujian yang juga disebut dengan specification-based atau functional testing adalah pengujian?
+A) Blackbox
+B) Whitebox
+C) Greybox
+D) Greenbox
+ANSWER: A
+Teknik White Box diklasifikasikan sebagai?
+A) Design based testing
+B) Structural testing
+C) Teknik error guessing
+D) Tidak ada yang benar
+ANSWER: B
+Tujuan pengujian blackbox menemukan kesalahan, kecuali?
+A) Fungsi yang salah atau tidak ada
+B) Error pada data external
+C) Error pada kinerja
+D) Kesalahan interface
+ANSWER: B
+Unit testing dilakukan oleh?
+A) User
+B) Developer
+C) Customer
+D) Tidak ada yang benar
+ANSWER: B
+Untuk menguji spesifikasi produk atau sistem digunakan method?
+A) Yellow box testing
+B) Black box testing
+C) White box testing
+D) Zero testing
+ANSWER: B
+
